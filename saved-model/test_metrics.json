@@ -1,0 +1,15 @@
+{
+    "RMSE": 8963.292356948903,
+    "MAE": 4247.227073417153,
+    "MAPE": 18.573331737362615,
+    "R2": 0.8785268089803043,
+    "Explained_Variance": 0.8800908855367,
+    "Median_Absolute_Error": 1959.006835937489,
+    "Max_Error": 292985.578125,
+    "Error_Percentile_25": 629.8603515625,
+    "Error_Percentile_50": 1959.006835937489,
+    "Error_Percentile_75": 4584.132812500033,
+    "Error_Percentile_90": 9403.559179687492,
+    "Error_Percentile_95": 16580.358398437507,
+    "Error_Percentile_99": 38898.646171874905
+}
